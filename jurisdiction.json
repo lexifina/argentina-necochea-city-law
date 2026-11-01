@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-necochea",
+  "code": "AR-B-NECOCHEA",
+  "name": "Necochea",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-necochea-city-law",
+  "build": "built: municipal ordinances (2 ordinances, 2 versions) from https://sibom.slyt.gba.gob.ar/cities/89",
+  "language": "es",
+  "sources": 1
+}

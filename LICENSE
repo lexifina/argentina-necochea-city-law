@@ -1,0 +1,15 @@
+The law texts in this repository are municipal ordinances of the Partido de Necochea (Province of Buenos Aires), Argentina, taken from
+Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Necochea, https://sibom.slyt.gba.gob.ar/cities/89 (consulted 2026-11-01).
+
+They are legal norms: ordinances sanctioned by the Honorable Concejo Deliberante and published in the
+Boletín Oficial Municipal de Necochea. Ordinances are public acts of government that bind everyone once officially published.
+Argentina's copyright law, Ley 11.723, contains no express exclusion for official texts, and none is claimed over them
+here: they are reproduced as public acts of government. The source states no restriction on reuse. They are reproduced
+here with this attribution, following the official text.
+
+Changes made by Lexifina: each text was split into one Markdown file per article, one paragraph per line, with spacing
+normalised; the wording was not changed. The municipality and the province do not endorse this repository. This
+repository is not an official publication; the binding text is the one published in the Boletín Oficial Municipal de Necochea.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

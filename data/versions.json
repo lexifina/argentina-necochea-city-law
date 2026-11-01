@@ -1,0 +1,33 @@
+{
+ "country": "AR-B-NECOCHEA",
+ "acts": [
+  {
+   "slug": "ordenanza-11687-2025",
+   "short": "Ordenanza 11687/2025",
+   "title": "Ordenanza 11687/2025: La determinación, fiscalización, recaudación, calificación de contribuyentes, percepción de todos los tributos, y la aplicación de sanciones por el incumplimiento de obligaciones tributarias formales o materiales que est",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12174/contents/2176160",
+   "versions": [
+    {
+     "from": "2025-02-16",
+     "units": 500,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12174/contents/2176160",
+     "sha256": "6e23f16f19d115cac8c5f33b25a47e4b65d678b69ba7dea374f9176dbde2137a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-12151-2026",
+   "short": "Ordenanza 12151/2026",
+   "title": "Ordenanza 12151/2026: Autorícese al Departamento Ejecutivo a realizar Llamado a ---------------------- Licitación Pública para otorgar en Concesión el Servicio de Autotransporte Urbano de Pasajeros de las ciudades de Necochea y Quequén del Pa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15164/contents/2401744",
+   "versions": [
+    {
+     "from": "2026-06-14",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15164/contents/2401744",
+     "sha256": "b2ab4f0abb699e506f6b9437f27bc7685ad605d3bab2bc67e1b67422e0326893"
+    }
+   ]
+  }
+ ]
+}
